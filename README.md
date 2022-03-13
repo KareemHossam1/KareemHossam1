@@ -14,13 +14,12 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="Python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon_aws" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="50"/>
 </p>
 
 ---
