@@ -19,7 +19,6 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="50"/>
 </p>
 
 ---
